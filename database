@@ -101,4 +101,4 @@ class ContactManagementApp:
 if __name__ == '__main__':
     root = tk.Tk()
     app = ContactManagementApp(root)
-    root.mainloop()
+    root.mainloo() 
